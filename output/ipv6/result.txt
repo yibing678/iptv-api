@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2026-10-25 22:12:38,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
+2026-10-28 00:19:49,https://php.jdshipin.com/TVOD/iptv.php$订阅源
 
 📺央视频道,#genre#
+CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php$订阅源
+CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
